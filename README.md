@@ -23,6 +23,18 @@
 - **LeNet-5 Classification:** Evaluated the generated images using a LeNet-5 classifier to assess generation quality.
 - **Accuracy Evaluation:** Calculated classifier accuracy on generated images and provided detailed prediction analysis.
 
+---
 
+# Week 3 (28-01-2026)
 
+- Folder: [Week_03](Week_03/)
 
+## Summary
+
+- **Variational Autoencoder (VAE):** Implemented a VAE with fully connected encoder and decoder networks.
+- **Fashion-MNIST Dataset:** Trained the VAE on the Fashion-MNIST dataset for generative modeling of clothing items.
+- **Reparameterization Trick:** Applied the reparameterization trick to enable backpropagation through the stochastic sampling layer.
+- **Loss Function:** Combined reconstruction loss (Binary Cross Entropy) and KL divergence for training.
+- **Sample Generation:** Generated new synthetic fashion images from random noise vectors in latent space.
+- **Latent Space Visualization:** Visualized the 2D latent space to understand the learned representations of different fashion item classes.
+- **Reconstruction Quality:** Compared original test images with VAE reconstructions to evaluate generation quality.
