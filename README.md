@@ -38,3 +38,21 @@
 - **Sample Generation:** Generated new synthetic fashion images from random noise vectors in latent space.
 - **Latent Space Visualization:** Visualized the 2D latent space to understand the learned representations of different fashion item classes.
 - **Reconstruction Quality:** Compared original test images with VAE reconstructions to evaluate generation quality.
+
+---
+
+# Week 4 (04-02-2026)
+
+- Folder: [Week_04](Week_04/)
+
+## Summary
+
+- **N-Gram Model:** Implemented statistical n-gram based text generation using bigram sequences and random sampling.
+- **LSTM Text Generation:** Built an RNN/LSTM architecture with embedding layer to generate contextually relevant text sequences.
+- **Transformer Architecture:** Implemented a custom Transformer model with multi-head self-attention, positional embeddings, and feed-forward networks.
+- **Custom Corpus:** Trained models on a curated dataset of 40+ sentences covering AI, machine learning, and NLP topics.
+- **Model Comparison:** Analyzed trade-offs between statistical models, sequential neural networks, and attention-based transformers.
+- **Text Generation:** Generated meaningful text using seed words with all three model architectures.
+- **Attention Mechanisms:** Explored parallel processing and contextual understanding using transformer self-attention.
+
+```
