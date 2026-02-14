@@ -55,4 +55,21 @@
 - **Text Generation:** Generated meaningful text using seed words with all three model architectures.
 - **Attention Mechanisms:** Explored parallel processing and contextual understanding using transformer self-attention.
 
+---
+
+# Week 5 (11-02-2026)
+
+- Folder: [Week_05](Week_05/)
+
+## Summary
+
+- **CNN Encoder-Decoder Architecture:** Implemented an encoder-decoder CNN model using convolutional and transposed convolutional layers.
+- **CIFAR-10 Dataset:** Trained on CIFAR-10 with grayscale input images to generate color output images.
+- **Image Transformation:** Converted grayscale images to RGB color images using deep learning for image enhancement/colorization.
+- **Mean Squared Error Loss:** Utilized MSE loss for pixel-level reconstruction quality.
+- **InstructPix2Pix Model:** Leveraged the Stable Diffusion InstructPix2Pix pre-trained model for image-to-image translation.
+- **Text-Guided Image Editing:** Applied natural language prompts to edit and transform images while preserving subject identity.
+- **Diffusers Library:** Used Hugging Face diffusers library for easy access to state-of-the-art diffusion models.
+- **Multi-Prompt Generation:** Generated multiple variations of input images based on diverse text prompts for creative transformations.
+
 ```
